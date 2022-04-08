@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="my_name">Amir Adrian Amir Hamzah</string>
+    <string name="title_input">Title</string>
+    <string name="title_hint">Terminator, Men In Black, Finding Nemo</string>
+    <string name="year_input">Year</string>
+    <string name="year_hint">1950,1999,2017</string>
+    <string name="country_input">Country</string>
+    <string name="country_hint">Malaysia, Germany, Japan</string>
+    <string name="genre_input">Genre</string>
+    <string name="genre_hint">Action, Comedy, Documentary</string>
+    <string name="cost_input">Cost</string>
+    <string name="cost_hint">100000, 20000000</string>
+    <string name="keywords_input">Keywords</string>
+    <string name="keywords_hint">Ghost, Arnold Schwarzenegger</string>
+    <string name="add_movie_button">+ Movie</string>
+    <string name="double_cost">Load X2</string>
+    <string name="reset_all">Reset</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+</resources>
